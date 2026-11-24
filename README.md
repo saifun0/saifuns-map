@@ -2,7 +2,7 @@
 
 **A fast, minimalist, clean-room Minimap & Fullscreen World Map built specifically for Minecraft 1.7.10 and GT: New Horizons (GTNH 2.9+).**
 
-Zero Mixins · Angelica & Shaders Ready · Java 8 & Java 17–25 (LWJGL3ify) · Full English & Russian (`en_US` / `ru_RU`) Localization · `LGPL-3.0`
+Zero Mixins · Angelica & Shaders Ready · Java 8 & Java 17–25 (LWJGL3ify) · Full English, Russian & Simplified Chinese (`en_US` / `ru_RU` / `zh_CN`) Localization · `LGPL-3.0`
 
 ![Saifun's Map World Map with GTNH Ore Veins](docs/worldmap_gtnh_ores.png)
 
